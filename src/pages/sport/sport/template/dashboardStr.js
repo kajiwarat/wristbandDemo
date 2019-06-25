@@ -41,7 +41,7 @@ function dashboardStr(data) {
 								<p><span>${data.step}</span>Steps</p>
 							</div>
 							<div class = 'model'>
-								<p>型号:${data.name}<p>
+								<p>Model:${data.name}<p>
 							</div>
 						</div>
 						<div class='position-info' hidden>
