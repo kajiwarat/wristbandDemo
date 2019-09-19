@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿#  Wristband Demo Guide
 ## Getting Started
 - Using nodejs+express to implement web services, the main role of the backend is to send static web pages to the browser, and send instructions to the router (connection, read data, disconnect, etc.). This project supports multiple routers to interact with the bracelet and controls the router using the cloud + local mode.
@@ -72,3 +73,7 @@ npm install
 ```
 npm run start
 ```
+=======
+# wristbandDemo
+Cassia check inout demo
+>>>>>>> origin/master
