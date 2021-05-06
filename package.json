@@ -61,6 +61,6 @@
     "co": "^4.6.0",
     "express": "^4.16.4",
     "jquery": "^1.12.4",
-    "underscore": "^1.8.3"
+    "underscore": "^1.12.1"
   }
 }
